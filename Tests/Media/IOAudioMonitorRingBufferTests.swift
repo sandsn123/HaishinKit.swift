@@ -1,6 +1,7 @@
 import Foundation
 import XCTest
 import AVFoundation
+import CoreAudio
 
 @testable import HaishinKit
 

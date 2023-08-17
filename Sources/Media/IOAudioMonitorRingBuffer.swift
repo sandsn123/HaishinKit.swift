@@ -1,6 +1,7 @@
 import AVFoundation
 import CoreMedia
 import Foundation
+import CoreAudio
 
 class IOAudioMonitorRingBuffer {
     private static let bufferCounts: UInt32 = 16
